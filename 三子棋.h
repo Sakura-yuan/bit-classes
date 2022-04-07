@@ -9,7 +9,7 @@ void Displayboard(char board[ROW][COL], int row, int col);
 void playerMove(char board[ROW][COL], int row, int col);
 void computerMove(char board[ROW][COL]);
 char Iswin(char board[ROW][COL], int row, int col);
-//·µ»Ø*Íæ¼ÒÓ®
-//·µ»Ø#µçÄÔÓ®
-//·µ»ØpÆ½¾Ö
-//·µ»Øj¼ÌÐø
+//è¿”å›ž*çŽ©å®¶èµ¢
+//è¿”å›ž#ç”µè„‘èµ¢
+//è¿”å›žpå¹³å±€
+//è¿”å›žjç»§ç»­
